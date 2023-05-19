@@ -1,0 +1,107 @@
+.footer {
+    padding: 1rem;
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', san-serif;
+}
+
+body {
+    background-color: #E2C044;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    color: #2E5266;
+}
+
+h1.title {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    border-width: 0px;
+    color: #2E5266;
+    border-style: solid;
+    border-color: white;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+h1.results {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h2.word {
+    color: white;
+    margin-bottom: -22px;
+    text-align: center;
+}
+
+.word-wrap {
+    padding: 20px 0px 20px 0px;
+}
+
+form {
+    width: 100%;
+}
+
+.word {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+}
+
+.link {
+    text-align: center;
+    padding: 40px;
+}
+
+
+a.website-link {
+    color:white;
+}
+
+.checker {
+    text-align: center;
+}
+
+.searchbtn {
+    border-radius: 0px 10px 10px 0px;
+    height: 40px;
+}
+
+.searchbtn:hover {
+    background-color: grey;
+}
+
+input {
+    width: 50%;
+    height: 40px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+h4,h6 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
