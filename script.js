@@ -8,4 +8,4 @@ function palindrome(str) {
     return true;
 };
 
-palindrome("eYeye")
+palindrome("eYeye");
